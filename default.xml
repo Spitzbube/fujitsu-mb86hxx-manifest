@@ -5,4 +5,5 @@
 	<default remote="github" revision="lasat_h60" sync-j="4" />
 	<project name="spitzbube/mb86hxx.git" path="lasat_h60" remote="github" />
 	<project name="spitzbube/uC-OS2.git" path="lasat_h60/HD/rtos/uCOS-II" revision="lasat_h60" />
+	<project name="spitzbube/bk7231_freertos_sdk.git" path="lasat_h60/HD/subsystem/bus/musb" revision="lasat_h60" />
 </manifest>
