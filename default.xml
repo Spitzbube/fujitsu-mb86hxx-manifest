@@ -4,4 +4,7 @@
 
 	<project name="spitzbube/linux.git" remote="github" path="kernel" revision="mb86hxx-5.15" />
 	<project name="spitzbube/mb86hxx-fapex.git" remote="github" path="fapi" revision="refs/tags/LinuxFAPI_V00L01R04" />
+	<project name="spitzbube/tools.git" remote="github" path="tools" revision="mb86hxx-linux">
+		<linkfile src="build.sh" dest="build.sh"/>
+	</project>
 </manifest>
